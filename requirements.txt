@@ -15,7 +15,7 @@ datetime
 telegraph==2.2.0
 youtube-search-python
 youtube-search
-yt-dlp==2023.2.17
+yt-dlp==2024.7.7
 aiofiles==22.1.0
 speedtest==0.0.1
 python-dotenv==0.21.1
